@@ -4,7 +4,7 @@
 
 ## Education
 - Master 2 Data Science  | ISAE-Supméca (Paris) (_janvier 2024 – mars 2025_)								       		
-- Licence	| ECOLE SUPÉRIEURE AFRICAINE DES TIC ( ESATIC) (_2013 – 2016_)	 			        		
+- Licence	| Ecole Supérieure Africaine Des TIC ( ESATIC) (_2013 – 2016_)	 			        		
 
 ## Work Experience
 **Technicien de Support @ CNPS (Caisse Nationale de Prévoyance Sociale, Côte d’Ivoire) (_septembre 2020 - Present_)**
