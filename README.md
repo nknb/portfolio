@@ -22,5 +22,3 @@
 
 Utilisé **Docker** , **PostgreSQL** et **Python** pour le devellopement du projet qui consiste a determiné le temps d'attente les assurés en vue d'apporté un amélioration.
 
-![Bike Study](/assets/img/accueil+.jpeg)
-
