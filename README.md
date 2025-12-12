@@ -20,5 +20,5 @@
 ## Projects
 ###  Mise en place d’une application de gestion de l'accueil 
 
-Utilisé **Docker** , **PostgreSQL** et **Python** pour le devellopement du projet qui consiste a determiné le temps d'attente les assurés en vue d'apporté un amélioration.
+Utilisation de **Docker** , **PostgreSQL** et **Python** pour le développement d’un projet visant à déterminer le temps d’attente des assurés afin d’apporter des améliorations à l'accueil.
 
