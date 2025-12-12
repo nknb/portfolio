@@ -3,9 +3,8 @@
 #### Compétences techniques: Python, SQL, Docker, Kubernetes, PostgreSQL, Linux, MongoDB , Git
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Master 2 Data Science  | ISAE-Supméca (Paris) (_janvier 2024 – mars 2025_)								       		
+- Licence	| ECOLE SUPÉRIEURE AFRICAINE DES TIC ( ESATIC) (_2013 – 2016_)	 			        		
 
 ## Work Experience
 **Technicien de Support @ CNPS (Caisse Nationale de Prévoyance Sociale, Côte d’Ivoire) (_septembre 2020 - Present_)**
