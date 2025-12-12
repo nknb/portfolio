@@ -3,7 +3,7 @@
 #### Compétences techniques: Python, SQL, Docker, Kubernetes, PostgreSQL, Linux, MongoDB, Git, Scikit-Learn
 
 ## Education
-- Master 2 Data Science |ISAE-Supméca (Paris) (_janvier 2024 – mars 2025_)								       		
+- Master 2 Data Science | ISAE-Supméca (Paris) (_janvier 2024 – mars 2025_)								       		
 - Licence | Ecole Supérieure Africaine Des TIC ( ESATIC) (_2013 – 2016_)	 			        		
 
 ## Work Experience
