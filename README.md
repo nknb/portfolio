@@ -1,6 +1,6 @@
 # Data Engineer
 
-#### Compétences techniques: Python, SQL, Docker, Kubernetes, PostgreSQL, Linux, MongoDB , Git
+#### Compétences techniques: Python, SQL, Docker, Kubernetes, PostgreSQL, Linux, MongoDB, Git, Scikit-Learn
 
 ## Education
 - Master 2 Data Science  | ISAE-Supméca (Paris) (_janvier 2024 – mars 2025_)								       		
